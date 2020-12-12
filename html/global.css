@@ -175,7 +175,7 @@ font importing
 
 @font-face {
 	font-family: 'GlyphiconsRegular';
-	src: url('../fonts/glyphicons-regular.woff') format('woff');
+	src: url('../html/glyphicons-regular.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
